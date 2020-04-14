@@ -9,7 +9,7 @@ bot.on('ready', () =>{
 
 bot.on('message', msg=>{
     if(msg.content === "HELLO"){
-        msg.reply('HELLO FRIEND');
+        msg.reply('HELLO MY FRIEND');
     }
 })
 
